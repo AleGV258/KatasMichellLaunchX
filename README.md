@@ -15,4 +15,6 @@ Link del Repositorio: https://github.com/AleGV258/KatasMichellLaunchX
 
 Instalación: Para poder ejecutar el repositorio primero hay que descargarlo, y en el ordenador, instalar python, además, en Visual Studio Code, se debe instalar la extensión de jupyter, para poder ejecutar y probar los archivos .ipynb
 
+## Cualquier duda, recomendación o sugerencia es bienvenida, puedes contactarme sin problema a través de mis correos.
+
 ## Gracias por dedicarle tiempo a leer este documento y de revisar el repositorio ;)
