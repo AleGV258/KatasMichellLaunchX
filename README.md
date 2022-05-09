@@ -7,7 +7,7 @@ Propietario: Este repositorio pertenece a Michell Alejandro García Vargas.
 
 GitHub: [@AleGV258](https://github.com/AleGV258)
 
-LinkedIn: [Michell Alejandro García Vargas](https://linkedin.com/in/michell-alejandro-garcia-vargas)
+LinkedIn: [Michell Alejandro García Vargas](https://www.linkedin.com/in/michell-alejandro-garcia-vargas)
 
 Correo: ale.gv258@gmail.com
 
