@@ -9,8 +9,6 @@ GitHub: AleGV258
 
 Correo: ale.gv258@gmail.com
 
-Correo Institucional: mgarcia200@alumnos.uaq.mx
-
 Link del Repositorio: https://github.com/AleGV258/KatasMichellLaunchX
 
 Instalación: Para poder ejecutar el repositorio primero hay que descargarlo, y en el ordenador, instalar python, además, en Visual Studio Code, se debe instalar la extensión de jupyter, para poder ejecutar y probar los archivos .ipynb
